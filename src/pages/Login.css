@@ -1,0 +1,39 @@
+.login-form{
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.register-toggle {
+    justify-content: right;
+}
+
+.me-auto{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.submitButton {
+    background-color: rgb(49,237,237);
+    border-color: rgb(3, 154, 154);
+}
+
+.mb-2a {
+    background-color: rgb(49,237,237);
+    border-color: rgb(3, 154, 154);
+}
+
+.btn-primary :hover{
+    background-color: rgb(3, 154, 154);
+}
+
+.register-toggle {
+    justify-content: center;
+}
+
+.toast-box {
+    justify-content: center;
+    align-items: center;
+    /* display: inline-table; */
+    /* display: unset; */
+}
